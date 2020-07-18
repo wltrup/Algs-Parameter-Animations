@@ -1,4 +1,4 @@
-# Property Animations
+# Independent Concurrent Animations of Multiple Parameters
 
 This essay describes the mathematical steps needed to synchronize independent animations of multiple parameters, running concurrently, so as to minimize the number of function evaluations.
 
