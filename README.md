@@ -4,7 +4,7 @@ This essay describes the mathematical steps needed to synchronize independent an
 
 More specifically, say you have a shape that depends on multiple parameters, such as the shape shown below,
 
-![](0.gif)
+![](0.png)
 
 and you'd like to animate changes to those parameters so that the shape animates in some fashion. In the examples below,
 
