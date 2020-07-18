@@ -4,13 +4,13 @@ This essay describes the mathematical steps needed to synchronize independent an
 
 More specifically, say you have a shape that depends on multiple parameters, such as the shape shown below,
 
-![](0.png)
+![](0.png =250x)
 
 and you'd like to animate changes to those parameters so that the shape animates in some fashion. In the examples below,
 
-| ![](1.gif) | ![](2.gif) | ![](3.gif) | ![](4.gif) |
-| ---------- | ---------- | ---------- | ---------- |
-| ![](5.gif) | ![](6.gif) | ![](7.gif) | ![](8.gif) |
+| ![](1.gif) | ![](2.gif) | ![](3.gif) |
+| ---------- | ---------- | ---------- |
+| ![](4.gif) | ![](5.gif) | ![](6.gif) |
 
 all shapes are described by the same mathematical expression
 
