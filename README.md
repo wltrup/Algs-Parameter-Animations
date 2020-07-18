@@ -8,11 +8,11 @@ More specifically, say you have a shape that depends on multiple parameters, suc
 
 and you'd like to animate changes to those parameters so that the shape animates in some fashion. In the examples below,
 
-| ![](1.gif) | ![](2.gif) | ![](3.gif) |
-| ---------- | ---------- | ---------- |
-| ![](4.gif) | ![](5.gif) | ![](6.gif) |
+| ![](gifs/1.gif) | ![](gifs/2.gif) | ![](gifs/3.gif) |
+| --------------- | --------------- | --------------- |
+| ![](gifs/4.gif) | ![](gifs/5.gif) | ![](gifs/6.gif) |
 
-all shapes are described by the same mathematical expression
+all shapes are described by the same mathematical expression,
 
 ![](eq.png)
 
