@@ -30,10 +30,6 @@ Well, that's what this essay is about, namely, establishing the algorithm by whi
 
 Originally written on October 2019.
 
-## Creator
-
-Wagner Truppel, trupwl@gmail.com
-
 ## License
 
 I'm sharing this work under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/) license. See the LICENSE file for more information.
